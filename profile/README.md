@@ -1,16 +1,10 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/ai-Gang-Bmm">
-          <img src="https://github.com/ai-Gang-Bmm.png" width="100" height="100" style="border-radius:50%;" alt="ai Gang Bmm"/>
-          <br><br>
-          <h1>ai Gang BMM</h1>
-        </a>
-      </td>
+      <img src="https://github.com/ai-Gang-Bmm.png" width="300" height="300" style="border-radius:80%;" alt="ai Gang Bmm"/>
+      <h1>ai Gang BMM</h1>
     </tr>  
   </table>  
-
 **We build small, practical AI tools that make real work faster.**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
@@ -57,7 +51,7 @@ We find repetitive, time-consuming tasks in real jobs and build **small, focused
     <tr>
       <td align="center" width="33%">
         <a href="https://github.com/aminmahvash">
-          <img src="https://github.com/aminmahvash.png" width="100" height="100" style="border-radius:50%;" alt="Amin Mahvash"/>
+          <img src="https://github.com/aminmahvash.png" width="150" height="150" style="border-radius:50%;" alt="Amin Mahvash"/>
           <br><br>
           <b>Amin Mahvash</b>
           <br>
@@ -66,7 +60,7 @@ We find repetitive, time-consuming tasks in real jobs and build **small, focused
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/amiralimahvash">
-          <img src="https://github.com/amiralimahvash.png" width="100" height="100" style="border-radius:50%;" alt="AmirAli Mahvash"/>
+          <img src="https://github.com/amiralimahvash.png" width="150" height="150" style="border-radius:50%;" alt="AmirAli Mahvash"/>
           <br><br>
           <b>AmirAli Mahvash</b>
           <br>
@@ -75,7 +69,7 @@ We find repetitive, time-consuming tasks in real jobs and build **small, focused
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/sadrabarani">
-          <img src="https://github.com/sadrabarani.png" width="100" height="100" style="border-radius:50%;" alt="Sadra Barani"/>
+          <img src="https://github.com/sadrabarani.png" width="150" height="150" style="border-radius:50%;" alt="Sadra Barani"/>
           <br><br>
           <b>Sadra Barani</b>
           <br>

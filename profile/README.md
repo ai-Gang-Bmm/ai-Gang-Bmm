@@ -1,6 +1,15 @@
 <div align="center">
-
-# ai Gang bMM
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/ai-Gang-Bmm">
+          <img src="https://github.com/ai-Gang-Bmm.png" width="100" height="100" style="border-radius:50%;" alt="ai Gang Bmm"/>
+          <br><br>
+          <h1>ai Gang BMM</h1>
+        </a>
+      </td>
+    </tr>  
+  </table>  
 
 **We build small, practical AI tools that make real work faster.**
 

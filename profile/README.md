@@ -5,7 +5,8 @@
       <h1>ai Gang BMM</h1>
     </tr>  
   </table>  
-**We build small, practical AI tools that make real work faster.**
+  
+  **We build small, practical AI tools that make real work faster.**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
